@@ -14,4 +14,4 @@
 
 -[SQL Injection](https://github.com/sholabhus/Cybersecurity/blob/main/SQL%20Injection.pdf)
 
--[Cross Site Scripting- XSS]{https://github.com/sholabhus/Cybersecurity/blob/main/Cross%20Site%20Scripting%20(XSS).pdf)
+-[Cross Site Scripting- XSS](https://github.com/sholabhus/Cybersecurity/blob/main/Cross%20Site%20Scripting%20(XSS).pdf)
